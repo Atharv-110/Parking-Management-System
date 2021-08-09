@@ -2,6 +2,7 @@
                                        Date - 25/07/2021
                             Project Name - Parking Management System
                                     Author - Atharv Vani
+                                Co-Author - Priyanshi Agrawal
                                         C - Language
 */
 #include <stdio.h>
